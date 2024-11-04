@@ -13,6 +13,7 @@
 		B17FB0862CCBBC1400B3BC7A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B17FB0842CCBBC1400B3BC7A /* Main.storyboard */; };
 		B17FB0882CCBBC1500B3BC7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B17FB0872CCBBC1500B3BC7A /* Assets.xcassets */; };
 		B17FB08B2CCBBC1500B3BC7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B17FB0892CCBBC1500B3BC7A /* LaunchScreen.storyboard */; };
+		B17FB0932CCBBE3300B3BC7A /* ikinciViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B17FB0922CCBBE3300B3BC7A /* ikinciViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B17FB0872CCBBC1500B3BC7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B17FB08A2CCBBC1500B3BC7A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B17FB08C2CCBBC1500B3BC7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B17FB0922CCBBE3300B3BC7A /* ikinciViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ikinciViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B17FB07E2CCBBC1400B3BC7A /* AppDelegate.swift */,
 				B17FB0802CCBBC1400B3BC7A /* SceneDelegate.swift */,
 				B17FB0822CCBBC1400B3BC7A /* ViewController.swift */,
+				B17FB0922CCBBE3300B3BC7A /* ikinciViewController.swift */,
 				B17FB0842CCBBC1400B3BC7A /* Main.storyboard */,
 				B17FB0872CCBBC1500B3BC7A /* Assets.xcassets */,
 				B17FB0892CCBBC1500B3BC7A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				B17FB0832CCBBC1400B3BC7A /* ViewController.swift in Sources */,
 				B17FB07F2CCBBC1400B3BC7A /* AppDelegate.swift in Sources */,
 				B17FB0812CCBBC1400B3BC7A /* SceneDelegate.swift in Sources */,
+				B17FB0932CCBBE3300B3BC7A /* ikinciViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
